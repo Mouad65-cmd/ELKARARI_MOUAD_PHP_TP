@@ -1,7 +1,3 @@
-# Données sensibles et uploads
-data/etudiants.txt
-uploads/
-
 # Fichiers système
 .DS_Store
 Thumbs.db
